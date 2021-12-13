@@ -1,6 +1,6 @@
 package com.panda.algorithm.sort;
 
-import com.panda.algorithm.common.ArrayUtils;
+import com.panda.algorithm.util.ArrayUtils;
 
 /**
  * @Author: Edward

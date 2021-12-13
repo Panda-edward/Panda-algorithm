@@ -1,4 +1,4 @@
-package com.panda.algorithm.common;
+package com.panda.algorithm.util;
 
 import java.util.Arrays;
 import java.util.List;
