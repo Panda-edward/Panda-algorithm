@@ -133,19 +133,4 @@ public class MapImpl<K, V> implements Map<K, V> {
             return v;
         }
     }
-
-    public static void main(String[] args) {
-        Map<Integer, String> map = new MapImpl<>();
-        map.put(1, "a");
-//        System.out.println(map.get(1));
-        map.put(5, "b");
-        map.put(9, "b");
-        map.put(13, "b");
-        map.put(17, "b");
-        map.put(25, "b");
-        map.put(29, "b");
-        map.put(33, "b");
-//        System.out.println(map.get(1));
-        System.out.println(map);
-    }
 }
